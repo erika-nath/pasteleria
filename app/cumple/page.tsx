@@ -11,7 +11,7 @@ const cumple =() => {
 
 ✨ Elige el tuyo y haz de tu día algo inolvidable. ✨
 
-📍 Ordena ahora y sorprende con el mejor sabor.</p>
+📍 Ordena ahora por telefono y sorprende con el mejor sabor.</p>
 </div>
       <div className="flex justify-center items-center h-screen">
       <Image
