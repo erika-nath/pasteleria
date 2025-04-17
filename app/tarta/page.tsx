@@ -10,7 +10,7 @@ const uno =() => {
 <Navbar />
 <div className="text-center text-lg font-medium">
         <h1>Tartas</h1>
-        <p>🎂 Tartas artesanales, hechas con amor Disfruta el equilibrio perfecto de sabor y frescura en cada mordida. Desde clásicos irresistibles hasta opciones frutales y personalizadas, nuestras tartas son ideales para cualquier ocasión.
+        <p>🎂 Tartas, hechas con amor Disfruta el equilibrio perfecto de sabor y frescura en cada mordida. Desde clásicos irresistibles hasta opciones frutales y personalizadas, nuestras tartas son ideales para cualquier ocasión.
 
 ✨ Ordena la tuya y endulza tu día ✨
 
